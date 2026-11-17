@@ -77,7 +77,7 @@ Exit code is `1` if there is a problem, so you can use it in CI or as a `prebuil
 I also made these (they are mine; the scripts here are free and MIT-licensed):
 
 - **Free guide:** the 12-tester / 14-day closed-testing rule, with a day-by-day plan, tester messages and production-access answer examples: https://snuglab.gumroad.com/l/closed-testing
-- **Paid kit ($24):** the full set of scripts (one-time setup, icons and splash generation, guided keystore, signed `.aab` build with a versionCode guard) plus a step-by-step guide and Play Console templates: https://snuglab.gumroad.com/l/webapp-to-play
+- **Paid kit ($21):** the full set of scripts (one-time setup, icons and splash generation, guided keystore, signed `.aab` build with a versionCode guard) plus a step-by-step guide and Play Console templates: https://snuglab.gumroad.com/l/webapp-to-play
 
 ## Contributing
 
