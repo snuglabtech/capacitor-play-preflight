@@ -1,0 +1,14 @@
+{
+  "name": "capacitor-play-preflight",
+  "version": "0.1.0",
+  "description": "Two small preflight scripts for Capacitor Android apps: toolchain doctor and versionCode bump.",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "doctor": "node scripts/doctor.mjs",
+    "version:bump": "node scripts/version.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
